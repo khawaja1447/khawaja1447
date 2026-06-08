@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khawaja-abeer-ai.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abeer-ashraf-684381396)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khawajaabeer798@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=khawaja1447&style=for-the-badge&color=0e75b6)
