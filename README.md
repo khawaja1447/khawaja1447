@@ -81,6 +81,13 @@ Dueling + Double DQN · 10 years BTC-USD · custom Gymnasium environment · Shar
 Vanilla / Double / Dueling / D3QN+PER · CartPole <strong>497/500</strong> · Atari pixel CNN · TensorBoard · variant benchmark suite
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+<h4>🩺 <a href="https://github.com/khawaja1447/Medical-Image-Classifier">Medical Image Classifier</a> &nbsp;·&nbsp; <em>Computer Vision</em></h4>
+ResNet-50 transfer learning · <strong>92.47% accuracy · AUC 0.9688</strong> · chest X-ray pneumonia detection · Grad-CAM explainability · Streamlit demo
+</td>
+<td valign="top" width="50%"></td>
+</tr>
 </table>
 
 ---
