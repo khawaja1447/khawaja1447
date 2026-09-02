@@ -45,7 +45,7 @@
 <tr>
 <td valign="top" width="50%">
 <h4>🌿 <a href="https://github.com/khawaja1447/plant-disease-detector">Plant Disease Detector</a> &nbsp;·&nbsp; <em>Computer Vision</em></h4>
-EfficientNet-B4 transfer learning · <strong>99.07% accuracy</strong> · 38 disease classes · 87K images · Grad-CAM explainability · Streamlit demo
+EfficientNet-B4 transfer learning · <strong>98.68% held-out test accuracy</strong> · 38 disease classes · 87K images · leakage-free source-grouped split · Grad-CAM explainability · Streamlit demo
 </td>
 <td valign="top" width="50%">
 <h4>📈 <a href="https://github.com/khawaja1447/StockIQ">StockIQ</a> &nbsp;·&nbsp; <em>Financial ML</em></h4>
